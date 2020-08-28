@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "559680052443",
+    "firebase_url": "https://all-in-one-4286d.firebaseio.com",
+    "project_id": "all-in-one-4286d",
+    "storage_bucket": "all-in-one-4286d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559680052443:android:1cb0ee4d49bb0f913e80fe",
+        "android_client_info": {
+          "package_name": "com.example.All_in_one_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559680052443-3u6r42h7geq6uhj6g1d3asb9vp74hd2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyNbPKzvodUIOksP4HciPUpggKAJtbUvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559680052443-3u6r42h7geq6uhj6g1d3asb9vp74hd2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
